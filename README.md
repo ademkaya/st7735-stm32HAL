@@ -4,7 +4,7 @@ library includes both hardware and software spi implementations
 
 ## Usage
 
-Usage is straitforward just add _spi.c & _st7735.c and their header files into the project.
+Usage is straightforward just add spi.c & _st7735.c and their header files into the project. 
 Repsitory is excluded the HAL library files, so user should add the required files themselves.
 
 ```
