@@ -51,4 +51,6 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-STM32F4xx_HAL_Driver/
+st7735_img2arr/obj/Debug/
+
+st7735_img2arr/bin/Debug/
